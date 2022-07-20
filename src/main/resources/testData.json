@@ -1,0 +1,9 @@
+{
+  "characters" : "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789абвгдеёжзиклмнопрстуфхцчшщъыьэюя",
+  "length" : "15",
+  "imagePath" :"src\\main\\resources\\1.jpg",
+  "typeOfFile" : "photo",
+  "attribute" : "href",
+  "objectType" : "post",
+  "isPostLiked" : "1"
+}

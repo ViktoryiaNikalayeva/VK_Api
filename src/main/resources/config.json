@@ -1,0 +1,14 @@
+{
+  "userAsAuthor" : "https://vk.com/id627657327",
+  "url" : "https://vk.com/",
+  "vkApiUrl" : "https://api.vk.com/method/",
+  "vkApiVersion" : "5.131.",
+  "wallPost" : "wall.post",
+  "wallEdit" : "wall.edit",
+  "getWallPhoto" : "photos.getWallUploadServer",
+  "saveWallPhoto" : "photos.saveWallPhoto",
+  "wallCreateComment" : "wall.createComment",
+  "like" : "likes.isLiked",
+  "wallDelete" : "wall.delete",
+  "getUserId" : "users.get"
+}
